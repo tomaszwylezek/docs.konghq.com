@@ -13,6 +13,8 @@ blockquote
 blockquotes
 body_filter
 boolean
+client_payload
+client_status
 CloudFormation
 Cognito
 config
@@ -209,6 +211,8 @@ unregister
 unregistering
 upsert
 upstream
+upstream_payload
+upstream_status
 upstreams
 upvalue
 upvalues
