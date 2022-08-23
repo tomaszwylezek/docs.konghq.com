@@ -310,6 +310,8 @@ items:
         url: /kong-enterprise/audit-log
       - text: Keyring and Data Encryption
         url: /kong-enterprise/db-encryption
+      - text: FIPS 140-2
+        url: /kong-enterprise/fips-support
   - title: Kong Manager
     icon: /assets/images/icons/documentation/icn-manager-color.svg
     items:
