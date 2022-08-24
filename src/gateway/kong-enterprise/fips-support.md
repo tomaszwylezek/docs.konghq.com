@@ -11,7 +11,7 @@ content_type: reference
 {:.note}
 > {{site.base_gateway}} is not FIPS-validated.
 
-## Install FIPS-compliant {{site.base_gateway}}
+## Install the {{site.base_gateway}} FIPS package
 
 The only supported {{site.base_gateway}} distribution is based on Ubuntu 20.04 and can be installed with the package distinctively named `kong-enterprise-edition-fips`.
 
