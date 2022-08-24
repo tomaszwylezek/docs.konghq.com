@@ -9,7 +9,7 @@ content_type: reference
 {{site.base_gateway}} offers a FIPS compliant package. The package meets FIPS compliancy because the primary library in {{site.base_gateway}}, OpenSSL, is replaced with the [BoringSSL](https://boringssl.googlesource.com/boringssl/), which at its core uses the FIPS 140-2 compliant BoringCrypto for cryptographic operations.
 
 {:.note}
->Outside of this package Kong does not offer FIPS-validated cryptographic encryption. 
+> {{site.base_gateway}} is not FIPS-validated.
 
 ## Install FIPS-compliant {{site.base_gateway}}
 
