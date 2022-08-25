@@ -55,7 +55,7 @@ items:
     icon: /assets/images/icons/documentation/icn-learning.svg
     items:
       - text: Get Kong
-        url: /get-started/get-kong
+        url: /get-started/
       - text: Configure Services and Routes
         url: /get-started/configure-services-and-routes
       - text: Configure Rate Limiting
