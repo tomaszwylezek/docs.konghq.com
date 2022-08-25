@@ -151,6 +151,7 @@ preread
 profiler
 prometheus
 Prometheus
+proto
 Protobuf
 proxied
 proxying
@@ -202,11 +203,13 @@ tcp
 tcpdump
 teardown
 tfvars
+transcoded
 transcoder
 transpile
 transpiled
 ttl
 txt
+unary
 uncheck
 uncomment
 uncommenting
