@@ -51,7 +51,7 @@ items:
       - text: Get Kong
         url: /get-started/
       - text: Configure Services and Routes
-        url: /get-started/configure-services-and-routes
+        url: /get-started/services-and-routes
       - text: Configure Rate Limiting
         url: /get-started/configure-ratelimiting
       - text: Configure Proxy Caching
@@ -94,9 +94,9 @@ items:
           - text: Docker
             items:
               - text: Install Kong with Docker
-                url: /kong-production/install-options/docker
+                url: /install/docker
               - text: Build your own Docker images
-                url: /kong-production/install-options/docker/build-custom-images/
+                url: /install/docker/build-custom-images/
           - text: Linux
             items:
               - text: Supported Distributions
